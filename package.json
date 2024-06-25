@@ -1,0 +1,17 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "/node_modules/webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+  
+}
