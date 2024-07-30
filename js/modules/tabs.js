@@ -25,6 +25,7 @@ function showTabContent(i = 0) {
 hideTabContent();
 showTabContent();
 
+
 tabsParent.addEventListener("click", (event) => {
   const target = event.target;
   if (target && target.classList.contains(tabsSelector.slice(1))) {
